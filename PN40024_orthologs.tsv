@@ -1,0 +1,138 @@
+Gene name	"Number of cultivars in which it has an ""Unanimous R2R3-MYB ortholog"""	"Cultivars in which it is an ""Unanimous R2R3-MYB ortholog"""	"Number of cultivars in which it is an ""Not unanimous R2R3-MYB ortholog"""	"Cultivars in which it is an ""Not unanimous R2R3-MYB ortholog"""
+MYB155	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB4B	2	CS_haplo1; Semillon_haplo2	2	CS_haplo2; Semillon_haplo1
+MYB15	2	CS_haplo1; Semillon_haplo2	2	CS_haplo2; Semillon_haplo1
+MYB13	2	CS_haplo1; Semillon_haplo2	2	CS_haplo2; Semillon_haplo1
+MYB185	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB26	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB167	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB199	3	CS_haplo1; CS_haplo2; Semillon_haplo2	0	-
+MYB186	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB189	3	CS_haplo1; CS_haplo2; Semillon_haplo2	2	Semillon_haplo1; Semillon_haplo2
+MYB191	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo1
+MYB140	2	CS_haplo1; Semillon_haplo2	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB165	2	CS_haplo1; Semillon_haplo2	2	CS_haplo2; Semillon_haplo1
+MYB192	2	CS_haplo1; Semillon_haplo1	2	CS_haplo2; Semillon_haplo2
+MYBC2-L1	2	CS_haplo1; Semillon_haplo2	2	CS_haplo2; Semillon_haplo1
+MYB163	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYBAL2	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYBAL1	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYB5A	2	CS_haplo1; Semillon_haplo1	2	CS_haplo2; Semillon_haplo2
+MYB91A	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB178	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYBPAL1	2	CS_haplo1; CS_haplo2	2	Semillon_haplo1; Semillon_haplo2
+MYB197	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB103	2	CS_haplo1; Semillon_haplo2	0	-
+MYB175	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB174	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB182	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB173	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB4A	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYB171	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB108B	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYBF1	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	0	-
+MYB154	1	CS_haplo1	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB82A	1	CS_haplo1	2	CS_haplo2; Semillon_haplo1
+MYB82B	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB82C	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYB179	2	CS_haplo1; Semillon_haplo2	2	CS_haplo2; Semillon_haplo1
+MYB144	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB160	1	CS_haplo1	2	CS_haplo2; Semillon_haplo1
+MYB139	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB55B	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB157	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB142	2	CS_haplo1; Semillon_haplo2	2	CS_haplo2; Semillon_haplo1
+MYB145	3	CS_haplo1; CS_haplo2; Semillon_haplo1	1	Semillon_haplo2
+MYB141	2	CS_haplo1; Semillon_haplo2	2	CS_haplo2; Semillon_haplo1
+MYB168	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYB156	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB40	2	CS_haplo1; CS_haplo2	2	Semillon_haplo1; Semillon_haplo2
+MYB5B	2	CS_haplo1; Semillon_haplo1	2	CS_haplo2; Semillon_haplo2
+MYB136	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYB143	3	CS_haplo1; CS_haplo2; Semillon_haplo2	2	Semillon_haplo1; Semillon_haplo2
+MYBA7	1	CS_haplo1	2	CS_haplo2; Semillon_haplo2
+MYB121	2	CS_haplo1; Semillon_haplo2	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB91B	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB194	1	CS_haplo1	2	CS_haplo2; Semillon_haplo1
+MYB172	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB14	3	CS_haplo1; CS_haplo2; Semillon_haplo1	1	Semillon_haplo2
+MYB180	2	CS_haplo1; CS_haplo2	2	Semillon_haplo1; Semillon_haplo2
+MYBPA1	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB183	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB169	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB3	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB17B	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB158	3	CS_haplo1; CS_haplo2; Semillon_haplo2	0	-
+MYBF2	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB108A	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB164	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYBPA11	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYBPA10	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYBPA9	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYBPA8	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYBPA7	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB153	1	CS_haplo1	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB146	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYB188	2	CS_haplo1; Semillon_haplo2	1	Semillon_haplo1
+MYBPA6	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYBPA5	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYBPAL3	2	CS_haplo1; Semillon_haplo2	1	Semillon_haplo1
+MYBC2-L6	1	CS_haplo1	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYBC2-L5	1	CS_haplo1	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB17A	3	CS_haplo1; CS_haplo2; Semillon_haplo2	1	Semillon_haplo1
+MYB151	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2	0	-
+MYBC2-L2	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	2	CS_haplo1; CS_haplo2
+MYBC2-L4	1	CS_haplo1	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB181	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2	1	CS_haplo2
+MYB170	2	CS_haplo2; Semillon_haplo2	2	CS_haplo1; Semillon_haplo1
+MYBPAR	2	CS_haplo2; Semillon_haplo2	2	CS_haplo1; Semillon_haplo1
+MYB24	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2	1	CS_haplo1
+MYB184	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2	1	CS_haplo1
+MYBPAL2	2	CS_haplo2; Semillon_haplo1	2	CS_haplo1; Semillon_haplo2
+MYB148	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2	1	CS_haplo1
+MYB152	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2	1	CS_haplo1
+MYB159	2	CS_haplo2; Semillon_haplo2	1	CS_haplo1
+MYB161	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2	1	CS_haplo1
+MYB98	2	CS_haplo2; Semillon_haplo2	2	CS_haplo1; Semillon_haplo1
+MYB147	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2	1	CS_haplo1
+MYB195	1	CS_haplo2	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2
+MYB27	2	Semillon_haplo1; Semillon_haplo2	2	CS_haplo1; CS_haplo2
+MYB55A	2	Semillon_haplo1; Semillon_haplo2	0	-
+MYB60	2	Semillon_haplo1; Semillon_haplo2	1	CS_haplo1
+MYBPA2	2	Semillon_haplo1; Semillon_haplo2	2	CS_haplo1; CS_haplo2
+MYBPA4	2	Semillon_haplo1; Semillon_haplo2	2	CS_haplo1; CS_haplo2
+MYBPA12	2	Semillon_haplo1; Semillon_haplo2	0	-
+MYB30A	1	Semillon_haplo2	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYBC2-L3	1	Semillon_haplo2	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYB150	1	Semillon_haplo2	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYB35B	1	Semillon_haplo2	1	Semillon_haplo1
+MYB67A	1	Semillon_haplo2	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYB35A	1	Semillon_haplo2	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYBA9	1	Semillon_haplo2	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYBA10	1	Semillon_haplo2	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYBA3	1	Semillon_haplo2	2	CS_haplo1; CS_haplo2
+MYB149	1	Semillon_haplo2	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYB190	1	Semillon_haplo2	1	Semillon_haplo1
+MYBA5	1	Semillon_haplo2	1	CS_haplo2
+MYBA6	1	Semillon_haplo2	1	CS_haplo2
+MYB166	1	Semillon_haplo2	2	CS_haplo1; Semillon_haplo1
+MYB162	1	Semillon_haplo2	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYB30B	0	-	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB135	0	-	0	-
+MYB137	0	-	0	-
+MYB138	0	-	0	-
+MYBA1	0	-	3	CS_haplo1; CS_haplo2; Semillon_haplo2
+MYBA2	0	-	3	CS_haplo1; CS_haplo2; Semillon_haplo2
+MYBA4	0	-	1	CS_haplo2
+MYBA8	0	-	3	CS_haplo1; CS_haplo2; Semillon_haplo2
+MYBA11	0	-	1	CS_haplo1
+MYBA12	0	-	3	CS_haplo1; CS_haplo2; Semillon_haplo1
+MYB176	0	-	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2
+MYB177	0	-	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2
+MYB80	0	-	2	Semillon_haplo1; Semillon_haplo2
+MYB187	0	-	0	-
+MYB67B	0	-	4	CS_haplo1; CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB125	0	-	0	-
+MYB193	0	-	3	CS_haplo2; Semillon_haplo1; Semillon_haplo2
+MYB196	0	-	0	-
+MYB198	0	-	3	CS_haplo1; Semillon_haplo1; Semillon_haplo2
